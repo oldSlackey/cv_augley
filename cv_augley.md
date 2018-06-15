@@ -1,6 +1,5 @@
----
-title: 'Dr Julian Augley – CV'
----
+title: 'Dr Julian Augley – CV' GitHub: https://github.com/oldSlackey
+
 
 Personal Profile
 ================
