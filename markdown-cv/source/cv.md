@@ -42,9 +42,12 @@ email: jules.augley@gmail.com
 -	Development and implementation of methods and pipelines for efficient data analysis where required. 
 
 
-- 2011: Job title, Company
+- January 2009-September 2015: Fish Biologist, Marine Scotland Science, Marine Laboratory, Aberdeen, UK
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> -	Application of fundamental population research to marine spatial management
+-	Research on population structuring in commercially important marine fish species (Gadoids, Deepwater Grenadiers, Sandeels)
+-	Use of otolith chemistry (LA-ICPMS, solution ICPMS) to delimit spatial structure in marine fish populations
+-	Use of otolith structures and micro-structures to age individuals
 
 - 2008: Job title, Company
 

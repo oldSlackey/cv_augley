@@ -27,14 +27,14 @@ pdf:
 	"$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/cv.pdf" \
 	--template="$(STYLEDIR)/template.tex" \
-	--pdf-engine=xelatex
+	--latex-engine=xelatex
 
 tex:
 	pandoc -s \
 	"$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/cv.tex" \
 	--template="$(STYLEDIR)/template.tex" \
-	--pdf-engine=xelatex
+	--latex-engine=xelatex
 
 docx:
 	pandoc "$(INPUTDIR)"/*.md \
