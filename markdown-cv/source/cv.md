@@ -1,12 +1,12 @@
 ---
 title: 'Dr Julian Augley'
-GitHub: https://github.com/oldSlackey
 street: 10 Eskside West
 city: Musselburgh
 postcode: EH21 6PL
 phone: 0131 531 9102
 mobile: 07812 038245
 email: jules.augley@gmail.com
+GitHub: https://github.com/oldSlackey
 ...
 
 ### Personal summary
@@ -19,11 +19,6 @@ email: jules.augley@gmail.com
 - PhD     Juvenile Plaice habitat in the Firth of Forth, Edinburgh Napier University, 2004-2007
 - BSc (Hons)     Environmental Biology (1:1), Edinburgh Napier University, 2000-2002
 - HND  Applied Biological Sciences, Edinburgh Napier University, 1998-2000
-
-%### Technical
-
-%- Intermediate: HTML, Python, etc, etc
-%- Basic: CSS, Stata, etc, etc
 
 ### Employment 
 
