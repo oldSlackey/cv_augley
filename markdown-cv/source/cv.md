@@ -49,50 +49,106 @@ email: jules.augley@gmail.com
 -	Use of otolith chemistry (LA-ICPMS, solution ICPMS) to delimit spatial structure in marine fish populations
 -	Use of otolith structures and micro-structures to age individuals
 
-- 2008: Job title, Company
+- 23rd September 2008-31st December 2008: Inshore Fisheries Biologist, FRS Marine Laboratory, Aberdeen, UK
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> -	Design of an Industry-Science partnership project to enable better use of crab fishery data in stock assessments
+
+- June 2008 – August 2008	Key Researcher, Seafish Economics, Edinburgh UK
+
+> -	Questionnaire survey of processing and catching sectors of UK seafood industry
+
+- October 2007 – April 2008	First Line IT analyst, Computacenter, Livingston, UK
+
+> - Assisting users with technical IT problems and queries.
+
+- August 2007 – September 2007	Lecture Writer, Napier University, Edinburgh, UK
+
+> - Wrote lecture notes for Napiers’ MSc Marine Ecosystems module, to be delivered via the web to distance learners on the MSc Water Resource Management degree.
+
+- April 2007 – August 2007	Environmental Consultant, Napier University, Edinburgh, UK
+
+> - Sub – contractor for environmental consultants ERM Edinburgh
+
+- Multi- and univariate analyses of Caspian Sea biological and physico-chemical dataset
+
+- Interpretation of analyses for English-speaking and non-English speaking scientists, engineers and Kazakh regulatory authorities
+
+- May 2004 – May 2007	Demonstrator/Lecturer, Napier University, Edinburgh, UK
+
+> - Wrote and led lectures and practical classes to undergraduates on all of Napiers’ School of Life Sciences degree routes
+
+- Assisted lecturers in practical classes and on field trips
+
+- Supervised undergraduate student projects in the lab and in the field
+
+- February 2006 – March 2006	Research Assistant, Napier University, Edinburgh, UK
+
+> - Designed, collected  and analysed data, and co – authored a manuscript on a laboratory based experiment in Gazi Bay, Kenya
+-	Behavioural observations of mangrove – associated fish, combined with a field based study on the effects of turbidity on fish habitat preferenda
+
+- January 2005 Research Consultant, Napier University, Edinburgh, UK
+
+- Dec 2003-March 2004	Research Assistant, Napier University, Edinburgh, UK
+
+- April 2003-August 2003	Research Assistant, Edinburgh University, Edinburgh, UK
+
+- May 2002-Dec 2002	Research Assistant, Napier University, Edinburgh, UK
+
+- Data collection (field work), analysis and report writing
+
+
 
 \newpage
 
-### Publications
+	### Publications
 
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
-- YYYY: Name et al. Article title. Journal name. Link/DOI
+- Madeleine Carruthers, Andrey A Yurchenko, Julian J Augley, Colin E Adams, Pawel Herzyk, Kathryn R Elmer De novo transcriptome assembly, annotation and comparison of four ecological and evolutionary model salmonid fish species BMC genomics 19 (1), 32
+
+- PJ Wright, T Régnier, FM Gibb, J Augley, S Devalla Identifying stock structuring in the sandeel, Ammodytes marinus, from otolith microchemistry Fisheries Research 199, 19-25
+
+- T Régnier, J Augley, S Devalla, CD Robinson, PJ Wright, FC Neat Otolith chemistry reveals seamount fidelity in a deepwater fish Deep Sea Research Part I: Oceanographic Research Papers 121, 183-189
+
+- Richard D. M. Nash, Peter J. Wright, Iveta Matejusova, Stefan Petev Dimitrov, Martha O'Sullivan, Julian Augley and Hannes Höffle Spawning location of Norway pout (Trisopterus esmarkii Nilsson) in the North Sea ICES J. Mar. Sci. (2012) 69 (8): 1338-1346 doi:10.1093/icesjms/fss130
+
+- Whomersley, P., Huxham, M., Bolam, S., Schratzberger, M., Augley, J., & Ridland, D. Response of intertidal macrofauna to multiple disturbance types and intensities – an experimental approach. Marine Environmental Research, 69(5),297-208
+
+- Huxham, M., Kimani, E., & Augley, J. (2008) The fish community of an East African Mangrove: Effects of turbidity and distance from the sea. Western Indian Ocean Journal of Marine Science. 7, 57-67.
+
+- Augley, J., Huxham, M., Lyndon, A., & Fernandes, T. (2007) The effects of salinity on growth of juvenile plaice (Pleuronectes platessa, L.): field observations and an experimental test. Journal of Sea Research. 60, 250-254.
+
+- Augley, J., Huxham, M., Lyndon, A., Fernandes, T. & Bury, S. (2007) Carbon stable isotopes in estuarine sediments and their utility as migration markers for nursery studies in the Firth of Forth and Forth Estuary, Scotland. Estuarine Coastal and Shelf Science 72, 648-656. 
+
+- Huxham, M., E. Kimani, J. Newton, & J. Augley. (2007) Stable isotope records from otoliths as tracers of fish migration in a mangrove system. Journal of Fish Biology 70 (5), 1554–1567.
+
+- Brian, J. V., Augley, J. J. & Braithwaite, V. A. (2006) Endocrine disrupting effects on the nesting behaviour of male three-spined stickleback Gasterosteus aculeatus L. Journal of Fish Biology, 68, 1883-1890.
+
+- Huxham, M., Kimani, E. & Augley, J. (2004) Mangrove fish: a comparison of community structure between forested and cleared habitats. Estuarine Coastal and Shelf Science, 60, 637-647.
 
 ### Selected presentations
 
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
-- YYYY: Title of presentation. Conference. Location. Poster/Oral
+## Posters:
+- Fisheries Society of the British Isles annual symposium 2005, University of Wales Bangor, Bangor, Wales, UK. Augley, J. J., Huxham, M., Fernandes, T. F., and Lyndon, A. R., Methodological considerations for sampling of intertidal fish.
 
-### Memberships and committees
+- Sixth Flatfish Symposium 2005, Kyoto University, Maizuru City, Japan. Augley, J. J., Huxham, M., Fernandes, T. F., and Lyndon, A. R., Plaice nursery habitat quality: Growth in the nursery.
 
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
-- YYYY: Name of committee/society etc.
+- Faculty of Health and Life Sciences Annual Postgraduate Conference 2006, Napier University, Edinburgh, Scotland, UK. Augley, J. J., Huxham, M., Fernandes, T. F., and Lyndon, A. R., Plaice nursery habitat quality: Growth in the nursery.
 
-### Awards and supporting information
+## Talks:
+- 4t International Otolith Symposium, August 2009, Monterey, USA. Application of stable isotopes in otoliths to infer nursery habitats
 
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
-- YYYY: Description of award, certificate, supporting info etc.
+- Marine Laboratory Aberdeen Seminar January 2009, The use of otolith chemistry to infer fish migration and nursery habitats
+
+- Faculty of Health and Life Sciences Annual Postgraduate Conference 2005, Napier University, Edinburgh, Scotland, UK. Augley, J. J., Huxham, M., Fernandes, T. F., and Lyndon, A. R., Plaice nursery habitat in the Firth Of Forth And Forth Estuary, Scotland
+
+- Scottish Marine Group April 2005 Postgraduate Marine Science Meeting, SAMS, St. Andrews University, St. Andrews, Fife, Scotland, UK. Augley, J. J., Huxham, M., Fernandes, T. F., and Lyndon, A. R., Plaice (Pleuronectes platessa) nursery habitat in the Firth of Forth
+
+- Estuarine & Coastal Sciences Association, ECSA 39 International Conference 2005, Heriot – Watt University, Edinburgh, Scotland, UK. Augley, J. J., Huxham, M., Fernandes, T. F., and Lyndon, A. R., Plaice nursery habitat quality: Growth in the nursery.
+
+- Scottish Marine Group April 2006 Postgraduate Meeting, SAMS, Scottish National Museum, Edinburgh, Scotland, UK. Augley, J. J., Huxham, M., Fernandes, T. F., Lyndon, A. R., and Bury, S., Stable isotopes and their use as habitat markers.
+
+- Challenger Conference for Marine Science 2006, Challenger Society, SAMS, Oban, Argyll, Scotland, UK. Augley, J. J., Huxham, M., Fernandes, T. F., and Lyndon, A. R., Bury, S., Stable isotope gradients in estuaries and their use as habitat markers.
+
+- Scottish Marine Group May 2007 Postgraduate Meeting, SAMS, Napier University, Edinburgh, Scotland, UK. Augley, J. J., Huxham, M., Fernandes, T. F., and Lyndon, A. R., Which Place for Plaice? Growth Rates of Estuarine and Coastal Plaice in the Firth of Forth. 
 
 ### References
 
