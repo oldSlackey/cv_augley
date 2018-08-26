@@ -11,7 +11,7 @@ GitHub: https://github.com/oldSlackey
 
 ### Personal summary
 
-> Although my previous career was as a marine ecologist, I have been exploring modern, computational approaches in biological research and experimental design. I have worked in a wide variety of roles, most recently as a bioinformatician with a consultancy, Fios Genomics. At Fios genomics we work with mainly industrial clients involved in clinical trials, ti apply best practice statistical methods to clinical, genomic, transcriptomic and proteomic datasets. Prior to Fios, I was a bioinformatician at Glasgow Polyomics working on the ISSF projects. In previous roles, I have lead research expeditions in the UK and Kenya and I have worked collaboratively with Scottish and international scientists on various marine research topic. I have presented research at international, national and local meetings, to varied audiences throughout my research career.
+> Although my previous career was as a marine ecologist, I have been exploring modern, computational approaches in biological research and experimental design. I have worked in a wide variety of roles, most recently as a bioinformatician with a consultancy, Fios Genomics. At Fios genomics we work with mainly industrial clients involved in clinical trials, to apply best practice statistical methods to clinical, genomic, transcriptomic and proteomic datasets. Prior to Fios, I was a bioinformatician at Glasgow Polyomics working on the ISSF projects. In previous roles, I have lead research expeditions in the UK and Kenya and I have worked collaboratively with Scottish and international scientists on various marine research topic. I have presented research at international, national and local meetings, to varied audiences throughout my research career.
 
 ### Education 
 
@@ -63,17 +63,13 @@ GitHub: https://github.com/oldSlackey
 - April 2007 – August 2007	Environmental Consultant, Napier University, Edinburgh, UK
 
 > - Sub – contractor for environmental consultants ERM Edinburgh
-
 - Multi- and univariate analyses of Caspian Sea biological and physico-chemical dataset
-
 - Interpretation of analyses for English-speaking and non-English speaking scientists, engineers and Kazakh regulatory authorities
 
 - May 2004 – May 2007	Demonstrator/Lecturer, Napier University, Edinburgh, UK
 
 > - Wrote and led lectures and practical classes to undergraduates on all of Napiers’ School of Life Sciences degree routes
-
 - Assisted lecturers in practical classes and on field trips
-
 - Supervised undergraduate student projects in the lab and in the field
 
 - February 2006 – March 2006	Research Assistant, Napier University, Edinburgh, UK
@@ -88,9 +84,6 @@ GitHub: https://github.com/oldSlackey
 - April 2003-August 2003	Research Assistant, Edinburgh University, Edinburgh, UK
 
 - May 2002-Dec 2002	Research Assistant, Napier University, Edinburgh, UK
-
-- Data collection (field work), analysis and report writing
-
 
 
 \newpage
