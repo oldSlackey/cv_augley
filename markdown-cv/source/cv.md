@@ -89,16 +89,17 @@ GitHub: https://github.com/oldSlackey
 \newpage
 
 	### Publications
+- Graham LA, Aman A, Campbell DD, Augley J, Graham D, McBride MW, Fraser NJ, Ferreri N, Dominiczak AF and Padmanabhan S. Salt stress in the renal tubules is linked to TAL specific expression of Uromodulin and an upregulation of heat shock genes Physiological Genomics 50: 964-972, 2018.
 
-- Madeleine Carruthers, Andrey A Yurchenko, Julian J Augley, Colin E Adams, Pawel Herzyk, Kathryn R Elmer De novo transcriptome assembly, annotation and comparison of four ecological and evolutionary model salmonid fish species BMC genomics 19 (1), 32
+- Madeleine Carruthers, Andrey A Yurchenko, Julian J Augley, Colin E Adams, Pawel Herzyk, Kathryn R Elmer. De novo transcriptome assembly, annotation and comparison of four ecological and evolutionary model salmonid fish species BMC genomics 19 (1), 32.
 
-- PJ Wright, T Régnier, FM Gibb, J Augley, S Devalla Identifying stock structuring in the sandeel, Ammodytes marinus, from otolith microchemistry Fisheries Research 199, 19-25
+- PJ Wright, T Régnier, FM Gibb, J Augley, S Devalla. Identifying stock structuring in the sandeel, Ammodytes marinus, from otolith microchemistry Fisheries Research 199, 19-25.
 
-- T Régnier, J Augley, S Devalla, CD Robinson, PJ Wright, FC Neat Otolith chemistry reveals seamount fidelity in a deepwater fish Deep Sea Research Part I: Oceanographic Research Papers 121, 183-189
+- T Régnier, J Augley, S Devalla, CD Robinson, PJ Wright, FC Neat. Otolith chemistry reveals seamount fidelity in a deepwater fish Deep Sea Research Part I: Oceanographic Research Papers 121, 183-189.
 
-- Richard D. M. Nash, Peter J. Wright, Iveta Matejusova, Stefan Petev Dimitrov, Martha O'Sullivan, Julian Augley and Hannes Höffle Spawning location of Norway pout (Trisopterus esmarkii Nilsson) in the North Sea ICES J. Mar. Sci. (2012) 69 (8): 1338-1346 doi:10.1093/icesjms/fss130
+- Richard D. M. Nash, Peter J. Wright, Iveta Matejusova, Stefan Petev Dimitrov, Martha O'Sullivan, Julian Augley and Hannes Höffle. Spawning location of Norway pout (Trisopterus esmarkii Nilsson) in the North Sea ICES J. Mar. Sci. (2012) 69 (8): 1338-1346 doi:10.1093/icesjms/fss130
 
-- Whomersley, P., Huxham, M., Bolam, S., Schratzberger, M., Augley, J., & Ridland, D. Response of intertidal macrofauna to multiple disturbance types and intensities – an experimental approach. Marine Environmental Research, 69(5),297-208
+- Whomersley, P., Huxham, M., Bolam, S., Schratzberger, M., Augley, J., & Ridland, D. Response of intertidal macrofauna to multiple disturbance types and intensities – an experimental approach. Marine Environmental Research, 69(5),297-208.
 
 - Huxham, M., Kimani, E., & Augley, J. (2008) The fish community of an East African Mangrove: Effects of turbidity and distance from the sea. Western Indian Ocean Journal of Marine Science. 7, 57-67.
 
